@@ -14,6 +14,13 @@
 
 " (change the value for guibg to any color you like)
 
+"Added by KTown
+set efm=**\ Error:\ %f(%l)%m
+set nosmartindent
+
+syn sync lines=1000
+"end
+
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
 if version < 600
